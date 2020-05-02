@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Shapes.iml" filepath="$PROJECT_DIR$/Shapes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shapes1.iml" filepath="$PROJECT_DIR$/Shapes1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../diyizhuo/diyizhuo.iml" filepath="$PROJECT_DIR$/../diyizhuo/diyizhuo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../diyizhuo/diyizhuo1.iml" filepath="$PROJECT_DIR$/../diyizhuo/diyizhuo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vendingmachine/vendingmachine.iml" filepath="$PROJECT_DIR$/../vendingmachine/vendingmachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vendingmachine/vendingmachine1.iml" filepath="$PROJECT_DIR$/../vendingmachine/vendingmachine1.iml" />
+    </modules>
+  </component>
+</project>
